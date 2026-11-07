@@ -4,7 +4,7 @@
 
 # Homology & Cohomology — an illustrated journey
 
-An interactive, illustrated textbook that teaches **homology** and **cohomology** from first principles —
+A written-by-AI interactive, illustrated textbook that teaches **homology** and **cohomology** from first principles —
 including every prerequisite (logic, sets, groups, linear algebra, topology, manifolds, differential forms,
 category theory) — with live 3D figures, explorable diagrams, and a built-in homology calculator.
 
